@@ -1,0 +1,2 @@
+Este Modelo, Reemplaza el KNN Imputer por en RandomForest para Rellenar los Nulos,
+También elimina "brand" a la hora de realizar predicciones
