@@ -1,0 +1,1 @@
+Este Modelo sigue el transcurso de los Labs del módulo 7, añadiendo las predicciones

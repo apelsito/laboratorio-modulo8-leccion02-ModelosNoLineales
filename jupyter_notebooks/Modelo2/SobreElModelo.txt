@@ -1,0 +1,1 @@
+Este Modelo, Reemplaza el KNN Imputer por en RandomForest para Rellenar los Nulos, lo demás se mantiene
